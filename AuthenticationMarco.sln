@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthenticationMarco", "AuthenticationMarco\AuthenticationMarco.csproj", "{66D51D46-B715-4339-B2AF-60C543708FA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject5", "TestProject5\TestProject5.csproj", "{77FA72F6-0AE9-4B95-A396-949A46AFAD37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D51D46-B715-4339-B2AF-60C543708FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D51D46-B715-4339-B2AF-60C543708FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D51D46-B715-4339-B2AF-60C543708FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D51D46-B715-4339-B2AF-60C543708FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77FA72F6-0AE9-4B95-A396-949A46AFAD37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77FA72F6-0AE9-4B95-A396-949A46AFAD37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77FA72F6-0AE9-4B95-A396-949A46AFAD37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77FA72F6-0AE9-4B95-A396-949A46AFAD37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5FA5A1E-6E77-404D-A390-F528BC9E078C}
+	EndGlobalSection
+EndGlobal
